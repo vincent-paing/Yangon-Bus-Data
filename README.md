@@ -27,11 +27,15 @@ Zawgyi
 
 *bus_id , destination*
 
+**locations.csv** are in the format of 
+
+*bus_stop , bus_ids*
+
 ### Disclaimer
 I'm not affiliated with Yangon Bus Service. Data are pulled from [Yangon Bus website](http://yangonbus.com/) using a html parser. I **DO NOT** guarantee the CSV will be updated as soon as data is changed in Yangon Bus Website.
 The text file and json are parsed from ruby scrpits from buslines.csv
 
-**Please Fork and Contribute the data sheet**
+**Please Fork and contribute to the data sheet**
 
 ###TODO
->* Add Locations.csv
+>* Google Map Path Data?
