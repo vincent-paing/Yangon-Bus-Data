@@ -10,14 +10,14 @@ Texts with Zawgyi font goes with `Non Standard` files
 
 Unicode
 
-* [CSV => buslines.csv](https://github.com/ye-lin-aung/Yangon-Bus-Data/blob/master/buslines.csv) 
-* [Text File => buslines_no_quotes.txt](https://github.com/ye-lin-aung/Yangon-Bus-Data/blob/master/buslines_no_quotes.txt)
-* [JSON => buslines.JSON](https://github.com/ye-lin-aung/Yangon-Bus-Data/blob/master/buslines.json)
+* [CSV => buslines.csv](https://github.com/yvincent-paing/Yangon-Bus-Data/blob/master/buslines.csv) 
+* [Text File => buslines_no_quotes.txt](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines_no_quotes.txt)
+* [JSON => buslines.JSON](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines.json)
 
 Zawgyi
-* [CSV => buslines_no_standard_font.csv](https://github.com/ye-lin-aung/Yangon-Bus-Data/blob/master/buslines_no_standard_font.csv)
-* [Text File => buslines_no_quotes_no_standard_font.txt](https://github.com/ye-lin-aung/Yangon-Bus-Data/blob/master/buslines_no_quotes.txt)
-* [JSON => buslines_no_standard_font.JSON](https://github.com/ye-lin-aung/Yangon-Bus-Data/blob/master/buslines_no_standard_font.json)
+* [CSV => buslines_no_standard_font.csv](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines_no_standard_font.csv)
+* [Text File => buslines_no_quotes_no_standard_font.txt](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines_no_quotes.txt)
+* [JSON => buslines_no_standard_font.JSON](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines_no_standard_font.json)
 
 
 **buslines.csv** are in the format of 
