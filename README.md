@@ -20,9 +20,6 @@ Zawgyi
 * [JSON => buslines_no_standard_font.JSON](https://github.com/ye-lin-aung/Yangon-Bus-Data/blob/master/buslines_no_standard_font.json)
 
 
-
-
-
 **buslines.csv** are in the format of 
 
 *bus_id , destination*
@@ -39,3 +36,6 @@ The text file and json are parsed from ruby scrpits from buslines.csv
 
 ###TODO
 >* Google Map Path Data?
+
+###Credit
+[Ye Lin Aung](https://github.com/ye-lin-aung) for JSON formats
