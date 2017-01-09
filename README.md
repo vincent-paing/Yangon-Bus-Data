@@ -1,21 +1,21 @@
 # Yangon-Bus-Data
 This is the colllection of  data for the new yangon bus
-Data Last Updated On *9 Jan 2017, 4 : 27 PM*
+Data Last Updated On *9 Jan 2017, 5 : 40 PM*
 
 This includes
 * CSV
-* Text File
 * JSON
 
-**buslines.csv** are in the format of 
+**buslines** are in the format of 
+
 *bus_id , destination*
 
-**bus_stop.csv** are in the format of 
-*bus_stop , bus_ids*
+**bus_stop** are in the format of 
+
+*bus_stop_name , bus_ids*
 
 ### Disclaimer
 I'm not affiliated with Yangon Bus Service. Data are pulled from [Yangon Bus website](http://yangonbus.com/) using a html parser. I **DO NOT** guarantee the CSV will be updated as soon as data is changed in Yangon Bus Website.
-The text file and json are parsed from ruby scrpits from buslines.csv
 
 **Please Fork and contribute to the data sheet**
 
@@ -23,4 +23,4 @@ The text file and json are parsed from ruby scrpits from buslines.csv
 >* Google Map Path Data?
 
 ###Credit
-JSON and txt format maintained by [Ye Lin Aung](https://github.com/ye-lin-aung) 
+JSON idea inspired from [Ye Lin Aung](https://github.com/ye-lin-aung) 
