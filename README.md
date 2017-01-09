@@ -1,31 +1,16 @@
 # Yangon-Bus-Data
 This is the colllection of  data for the new yangon bus
+Data Last Updated On *9 Jan 2017, 4 : 27 PM*
 
 This includes
 * CSV
 * Text File
 * JSON
 
-Texts with Zawgyi font goes with `Non Standard` files 
-
-Unicode
-
-* [CSV => buslines.csv](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines.csv) 
-* [Text File => buslines_no_quotes.txt](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines_no_quotes.txt)
-* [JSON => buslines.JSON](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines.json)
-
-Zawgyi
-* [CSV => buslines_no_standard_font.csv](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines_no_standard_font.csv)
-* [Text File => buslines_no_quotes_no_standard_font.txt](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines_no_quotes.txt)
-* [JSON => buslines_no_standard_font.JSON](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines_no_standard_font.json)
-
-
 **buslines.csv** are in the format of 
-
 *bus_id , destination*
 
-**locations.csv** are in the format of 
-
+**bus_stop.csv** are in the format of 
 *bus_stop , bus_ids*
 
 ### Disclaimer
@@ -38,4 +23,4 @@ The text file and json are parsed from ruby scrpits from buslines.csv
 >* Google Map Path Data?
 
 ###Credit
-[Ye Lin Aung](https://github.com/ye-lin-aung) for JSON formats
+JSON and txt format maintained by [Ye Lin Aung](https://github.com/ye-lin-aung) 
