@@ -10,7 +10,7 @@ Texts with Zawgyi font goes with `Non Standard` files
 
 Unicode
 
-* [CSV => buslines.csv](https://github.com/yvincent-paing/Yangon-Bus-Data/blob/master/buslines.csv) 
+* [CSV => buslines.csv](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines.csv) 
 * [Text File => buslines_no_quotes.txt](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines_no_quotes.txt)
 * [JSON => buslines.JSON](https://github.com/vincent-paing/Yangon-Bus-Data/blob/master/buslines.json)
 
