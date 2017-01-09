@@ -5,10 +5,14 @@ A CSV Data For the new yangon bus
 
 *bus_id , destination*
 
+**locations.csv** are in the format of 
+
+*bus_stop , bus_ids*
+
 ### Disclaimer
 I'm not affiliated with Yangon Bus Service. Data are pulled from [Yangon Bus website](http://yangonbus.com/) using a html parser. I **DO NOT** guarantee the CSV will be updated as soon as data is changed in Yangon Bus Website.
 
-**Please Fork and Contribute the data sheet**
+**Please Fork and contribute to the data sheet**
 
 ###TODO
->* Add Locations.csv
+>* Google Map Path Data?
