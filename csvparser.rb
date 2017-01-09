@@ -14,15 +14,16 @@ File.open('buslines_no_quotes.txt', 'r') .readlines.each do |line|
 	 busArray.shift
 	 h = Hash["bus_id" => lineArray[0],"routes" => busArray]
 	# puts h.to_json 
-	 $ary << JSON.pretty_generate(h) 
+	 $ary << h 
 
 	
 end
 jsonHash = Hash["buses",$ary]
 jsonString = JSON.pretty_generate(jsonHash) 
-jsonString.delete! '\\'
-jsonString.delete! 'n'
+
+jsonString.chomp
 file_comment.write(jsonString)
 
+puts jsonString
 file_comment.close
 
