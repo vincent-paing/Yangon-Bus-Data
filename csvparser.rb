@@ -9,6 +9,7 @@ require 'json'
 $ary = Array.new 
 File.open('buslines_no_quotes.txt', 'r') .readlines.each do |line|
 	
+	line["\n"]=""
 	 lineArray = line.split(",")
   	busArray = lineArray
 id =	busArray.shift
