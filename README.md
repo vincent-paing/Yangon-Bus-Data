@@ -16,9 +16,6 @@ This includes
 *bus_stop , bus_ids*
 
 **Notes**
-
-Ruby installation needed
-
 To generate the bus lines please navigate to bus_lines/scrpits and execute sh parser.sh
 
 
