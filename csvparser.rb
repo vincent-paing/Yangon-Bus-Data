@@ -11,8 +11,9 @@ File.open('buslines_no_quotes.txt', 'r') .readlines.each do |line|
 	
 	 lineArray = line.split(",")
   	busArray = lineArray
-	 busArray.shift
-	 h = Hash["bus_id" => lineArray[0],"routes" => busArray]
+id =	busArray.shift
+	 
+	h = Hash["bus_id" =>id,"routes" => busArray]
 	# puts h.to_json 
 	 $ary << h 
 
