@@ -1,10 +1,11 @@
 # Yangon-Bus-Data
 This is the colllection of  data for the new yangon bus
-Data Last Updated On *9 Jan 2017, 5 : 40 PM*
+Data Last Updated On *11 Jan 2017, 0 : 40 PM*
 
 This includes
 * CSV
 * JSON
+* GeoJSON
 
 **buslines** are in the format of 
 
@@ -21,7 +22,6 @@ Bus Types are as follows
 *3* - Green ( ပင်မလမ်းနဲ့ ချိတ်ဆက်သည့် ယဉ်လိုင်းများ )
 
 *4* - Brown ( မြို့တွင်းပတ်လိုင်းများ )
-
 
 **bus_stop** are in the format of 
 
