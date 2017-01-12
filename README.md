@@ -1,6 +1,6 @@
 # Yangon-Bus-Data
 This is the colllection of  data for the new yangon bus
-Data Last Updated On *11 Jan 2017, 0 : 40 PM*
+Data Last Updated On *12 Jan 2017, 2 : 00 PM*
 
 This includes
 * CSV
