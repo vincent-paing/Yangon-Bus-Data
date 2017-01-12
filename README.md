@@ -9,7 +9,7 @@ This includes
 
 **buslines** are in the format of 
 
-*bus_id , bus_type, routes*
+*bus_id , bus_type, routes, bus_stops*
 
 Bus Types are as follows
 
