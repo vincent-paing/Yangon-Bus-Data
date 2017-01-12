@@ -1,12 +1,13 @@
 # Yangon-Bus-Data
 This is the colllection of  data for the new yangon bus
-Data Last Updated On *12 Jan 2017, 2 : 00 PM*
+Data Last Updated On *12 Jan 2017, 6 : 39 PM*
 
 This includes
 * CSV
 * JSON
 * GeoJSON
 
+### Bus Lines
 **buslines** are in the format of 
 
 *bus_id , bus_type, routes, bus_stops*
@@ -23,24 +24,24 @@ Bus Types are as follows
 
 *4* - Brown ( မြို့တွင်းပတ်လိုင်းများ )
 
+### Bus Routes
+
 **bus_routes** are in the format of 
 
 *route_name , bus_ids*
 
+### Bus Stops
+
 **bus_stops** are in the format of 
 
 *bus_stop_name, latitude, longitude , bus_ids*
-
-### BUS STOP LAT LONG MIGHT BE JUST FOR POLARSTAR MAP AND MAY NOT BE ABLE TO USE FOR GOOGLE MAPS ( I HAVEN'T TESTED THROUGLY YET)
 
 ### Disclaimer
 I'm not affiliated with Yangon Bus Service. Data are pulled from [Yangon Bus website](http://yangonbus.com/) using a html parser. I **DO NOT** guarantee the CSV will be updated as soon as data is changed in Yangon Bus Website.
 
 **Please Fork and contribute to the data sheet**
 
-###TODO
->* Google Map Path Data?
-
 ###Credit
 JSON idea inspired from [Ye Lin Aung](https://github.com/ye-lin-aung) 
+
 GeoJson Data by [mapmeld](https://github.com/mapmeld)
