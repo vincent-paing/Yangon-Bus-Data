@@ -7,7 +7,7 @@ This includes
 * JSON
 * GeoJSON
 
-### Bus Lines
+## Bus Lines
 **buslines** are in the format of 
 
 *bus_id , bus_type, routes, bus_stops*
@@ -24,24 +24,24 @@ Bus Types are as follows
 
 *4* - Brown ( မြို့တွင်းပတ်လိုင်းများ )
 
-### Bus Routes
+## Bus Routes
 
 **bus_routes** are in the format of 
 
 *route_name , bus_ids*
 
-### Bus Stops
+## Bus Stops
 
 **bus_stops** are in the format of 
 
 *bus_stop_name, latitude, longitude , bus_ids*
 
-### Disclaimer
+## Disclaimer
 I'm not affiliated with Yangon Bus Service. Data are pulled from [Yangon Bus website](http://yangonbus.com/) using a html parser. I **DO NOT** guarantee the CSV will be updated as soon as data is changed in Yangon Bus Website.
 
-**Please Fork and contribute to the data sheet**
-
-###Credit
+## Credit
 JSON idea inspired from [Ye Lin Aung](https://github.com/ye-lin-aung) 
 
 GeoJson Data by [mapmeld](https://github.com/mapmeld)
+
+**Please Fork and contribute to the data sheet**
