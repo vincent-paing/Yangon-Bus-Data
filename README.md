@@ -1,6 +1,6 @@
 # Yangon-Bus-Data
 
-**OBSOLETE, YBS WILL OPEN SOURCE THEIR DATA ON 14 JAN, LINK WILL BE UPDATED ACCORDINGLY**
+**OBSOLETE, Use [Offical YBS Data](http://data.yangonbus.com/)"
 
 This is the colllection of  data for the new yangon bus
 > Data Last Updated On *12 Jan 2017, 6 : 39 PM*
